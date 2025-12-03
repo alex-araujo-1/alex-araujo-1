@@ -47,7 +47,7 @@ Tenho interesse em solucionar grandes desafios utilizando meu conhecimento tecno
 
 &nbsp;
 
- ## 📊 Estatísticas
+<!-- ## 📊 Estatísticas
 
 <p>
   <img 
@@ -65,6 +65,6 @@ Tenho interesse em solucionar grandes desafios utilizando meu conhecimento tecno
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-araujo-1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
-</p>
+</p> -->
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
